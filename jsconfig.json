@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "public/*": ["public/*"], 
+      "pages/*": ["pages/*"], 
+      "components/*": ["components/*"],
+      "context/*": ["context/*"],
+      "query": ["services/query.service.js"],
+      "queries/*": ["queries/*"],
+      "app": ["app.js"],
+      "styles/*":["styles/*"],
+      "routes": ["routes/index.js"]
+    }
+  }
+ }
