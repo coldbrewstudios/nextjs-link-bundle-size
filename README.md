@@ -2,8 +2,7 @@
 
 Download the project  
 Do npm install  
-Open pages/about.js 
-
+Open pages/about.js
 At the top see the import for the Link component. 
 
 Do: 
